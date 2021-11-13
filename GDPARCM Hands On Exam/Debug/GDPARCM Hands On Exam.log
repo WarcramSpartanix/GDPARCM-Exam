@@ -1,0 +1,32 @@
+﻿  AGameObject.cpp
+D:\Programs\GDPARCM\GDPARCM Hands On Exam\GDPARCM Hands On Exam\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  BGObject.cpp
+D:\Programs\GDPARCM\GDPARCM Hands On Exam\GDPARCM Hands On Exam\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Bubble.cpp
+D:\Programs\GDPARCM\GDPARCM Hands On Exam\GDPARCM Hands On Exam\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Fish.cpp
+D:\Programs\GDPARCM\GDPARCM Hands On Exam\GDPARCM Hands On Exam\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  FPSCounter.cpp
+D:\Programs\GDPARCM\GDPARCM Hands On Exam\GDPARCM Hands On Exam\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Game.cpp
+D:\Programs\GDPARCM\GDPARCM Hands On Exam\GDPARCM Hands On Exam\Game.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  GameObjectManager.cpp
+D:\Programs\GDPARCM\GDPARCM Hands On Exam\GDPARCM Hands On Exam\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  IETThread.cpp
+  Loader.cpp
+  The contents of <semaphore> are available only with C++20 or later.
+D:\Programs\GDPARCM\GDPARCM Hands On Exam\GDPARCM Hands On Exam\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  LoaderManager.cpp
+  The contents of <semaphore> are available only with C++20 or later.
+D:\Programs\GDPARCM\GDPARCM Hands On Exam\GDPARCM Hands On Exam\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  LoadingText.cpp
+D:\Programs\GDPARCM\GDPARCM Hands On Exam\GDPARCM Hands On Exam\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Main.cpp
+D:\Programs\GDPARCM\GDPARCM Hands On Exam\GDPARCM Hands On Exam\Main.cpp(1,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  SpriteObject.cpp
+D:\Programs\GDPARCM\GDPARCM Hands On Exam\GDPARCM Hands On Exam\AGameObject.h(2,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  StringUtils.cpp
+  TextureManager.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\Programs\GDPARCM\GDPARCM Hands On Exam\GDPARCM Hands On Exam\TextureManager.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Generating Code...
